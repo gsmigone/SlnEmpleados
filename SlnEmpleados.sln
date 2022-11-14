@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibreriaEmpleado", "Libreri
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PresentacionWindows", "PresentacionWindows\PresentacionWindows.csproj", "{802642E9-BB73-48BC-988B-ED391A362B3B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsEmpleados", "WindowsEmpleados\WindowsEmpleados.csproj", "{5B5BC510-46D8-4847-83F0-5A5F4F988098}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{802642E9-BB73-48BC-988B-ED391A362B3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{802642E9-BB73-48BC-988B-ED391A362B3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{802642E9-BB73-48BC-988B-ED391A362B3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B5BC510-46D8-4847-83F0-5A5F4F988098}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B5BC510-46D8-4847-83F0-5A5F4F988098}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B5BC510-46D8-4847-83F0-5A5F4F988098}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B5BC510-46D8-4847-83F0-5A5F4F988098}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
